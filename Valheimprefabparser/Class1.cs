@@ -434,7 +434,7 @@ namespace ValheimPrefabParser
                 return "31_VFX_Effects";
             }
 
-            // Остальное
+            // Остальное1
             return "99_Other";
         }
 
